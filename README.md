@@ -9,3 +9,6 @@ Program displays bar graphs of positive/negative sentiment expressed by a user t
 
 ## Other
 Code is pretty messy and disorganized. I simply hacked it together with various tools. 
+
+## Acknowledgments
+I would like to thank yanofsy for providing the tweet_dumper.py file which made my life a lot easier.
